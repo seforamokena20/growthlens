@@ -61,4 +61,24 @@ Purchase
   1. Checkout → Purchase in the cart path.
   2. Checkout → Purchase in the direct checkout path.
 
+---
+
+## Device Segmentation
+
+Device-level analysis showed highly consistent user behavior across mobile,
+desktop, and tablet.
+
+### Key Finding
+Device type does not appear to be a major driver of funnel performance.
+Conversion rates were similar across all three devices at each analyzed stage.
+
+The most consistent drop-off occurred between `view_item` and `add_to_cart`:
+
+- Mobile: 79.27% drop-off
+- Desktop: 79.67% drop-off
+- Tablet: 80.87% drop-off
+
+This pattern suggests that the largest friction point may occur earlier in the
+purchase journey and is not concentrated on a specific device type.
+
 
