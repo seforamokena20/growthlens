@@ -81,4 +81,67 @@ The most consistent drop-off occurred between `view_item` and `add_to_cart`:
 This pattern suggests that the largest friction point may occur earlier in the
 purchase journey and is not concentrated on a specific device type.
 
+---
+## Traffic Source Analysis
+
+### Objective
+
+Understand how different traffic sources contribute to the e-commerce
+funnel and identify sources with potential conversion opportunities.
+
+### Key Findings
+
+#### 1. Google brings the highest product-view volume
+
+Google generated 25,105 product viewers, the highest among the listed
+traffic sources.
+
+However, its View → Cart conversion was only 18.61%.
+
+#### 2. High traffic does not necessarily mean high conversion
+
+<Other> and Google generated substantial product-view traffic but had
+relatively low View → Cart conversion.
+
+This suggests that these sources have significant potential for improving
+the transition from product interest to cart addition.
+
+#### 3. The biggest opportunity is View → Cart
+
+For Google:
+
+25,105 → 4,672 → 3,438 → 1,377
+
+The largest loss occurs between product view and add-to-cart.
+
+Once users add products to their cart, the later funnel stages perform
+considerably better.
+
+### Interpretation
+
+High-volume sources such as Google may be bringing users who are interested
+in products but are less likely to commit to adding them to their cart.
+
+However, this should be treated as a hypothesis rather than a confirmed
+cause. Possible explanations include search-intent mismatch, product-page
+friction, pricing/shipping concerns, or differences in user/device behavior.
+
+### Business Opportunity
+
+The primary opportunity is to improve the View → Cart stage for high-volume
+traffic sources, particularly Google.
+
+Improving this stage could have a substantial impact because even a small
+increase in conversion would affect a large existing user base.
+
+### Conclusion
+
+Traffic-source analysis shows that acquisition volume and conversion
+efficiency are not necessarily aligned. Google generates the largest
+product-view volume but has relatively weak View → Cart conversion.
+
+Therefore, the next stage of analysis should focus on identifying the
+underlying reasons for the View → Cart drop-off rather than simply increasing
+traffic.
+
 
