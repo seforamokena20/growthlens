@@ -207,5 +207,5 @@ A purchase-based cohort analysis can also be performed to answer a more commerci
 
 These analyses can help connect retention patterns to the broader conversion and acquisition findings in GrowthLens.
 
-##INSIGHTS
+## INSIGHTS
 Retention is a significant growth challenge. Month-1 retention ranges from 2.53% to 5.86% across the observed cohorts, with the November cohort falling to 1.52% by Month 2. This indicates that most users do not return to the platform after their initial activity. However, cohort analysis alone cannot identify the causes of low retention, so these results should be interpreted alongside acquisition, funnel, and behavioral analyses to identify potential retention opportunities.
