@@ -209,3 +209,6 @@ These analyses can help connect retention patterns to the broader conversion and
 
 ## INSIGHTS
 Retention is a significant growth challenge. Month-1 retention ranges from 2.53% to 5.86% across the observed cohorts, with the November cohort falling to 1.52% by Month 2. This indicates that most users do not return to the platform after their initial activity. However, cohort analysis alone cannot identify the causes of low retention, so these results should be interpreted alongside acquisition, funnel, and behavioral analyses to identify potential retention opportunities.
+
+## RECOMMENDATION 
+Prioritize retention through segmented re-engagement and personalized post-purchase experiences. Users who show high purchase intent but do not convert should be re-engaged with relevant product reminders or incentives, while existing customers should receive personalized recommendations and follow-up campaigns. Retention should also be monitored by acquisition source and user segment to identify which groups have the strongest potential for repeat engagement.
